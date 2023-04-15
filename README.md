@@ -11,3 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with - nothin' rn 
 - 💬 Ask me about Python, transport protocols and network congestion
 - 📫 How to reach me: ...
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitsriv9&show_icons=true&locale=en&layout=compact" alt="amitsriv9" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amitsriv9&show_icons=true&locale=en" alt="amitsriv9" /></p>
